@@ -7,4 +7,4 @@ In the DancingLinksSolver class, we solve sudokus in a more efficient way. We ap
 
 Then, we tried several methods to create sudoku grids with the minimum number of clues at the beginning.
 
-This project was completed during the spring 2014, by Cathleen Clop and Laetitia Jumel.
+This project was completed during Spring 2014, by Cathleen Clop and Laetitia Jumel.
